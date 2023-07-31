@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @yosrahaddad
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Machine learning and Deep Learning
-- 💞️ I’m looking for an end of studies internship
 - 📫 How to reach me: yosra.haddad@enicar.ucar.tn
 
 <!---
